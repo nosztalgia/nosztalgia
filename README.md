@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<img src=”https://cdn.discordapp.com/attachments/1221088137330163712/1226119154054987827/Black_Elegeance_Modern_Offline_Twitch_Banner.png?ex=66239b72&is=66112672&hm=a578cd448d9d7c34a83b28f096e3430bb9169f2f507af39d6f2c30262cd21b5b&" alt=”my banner”>
-
 <!--
 **nosztalgia/nosztalgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src=”https://cdn.discordapp.com/attachments/1221088137330163712/1226119154054987827/Black_Elegeance_Modern_Offline_Twitch_Banner.png?ex=66239b72&is=66112672&hm=a578cd448d9d7c34a83b28f096e3430bb9169f2f507af39d6f2c30262cd21b5b&" alt=”my banner”>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
