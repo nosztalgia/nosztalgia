@@ -1,28 +1,18 @@
-<p align=”center”>
 
-<img width=”200" height=”200" src=”https://raw.githubusercontent.com/nosztalgia/nosztalgia/main/image_2024-04-06_124737957.png" alt=”my banner”>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/BBUqe5uP) 
 
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nosztalgia&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nosztalgia&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nosztalgia&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Bonjour 👋
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Bienvenue sur mon profile!
+---
+[![](https://visitcount.itsvg.in/api?id=nosztalgia&icon=2&color=0)](https://visitcount.itsvg.in)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
->
-
-
-### 📊 Statistiques
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosztalgia)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosztalgia&layout=compact)](https://github.com/yushi1007)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
