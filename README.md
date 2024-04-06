@@ -1,12 +1,6 @@
-### Hi there 👋
+### Bonjour 👋
 
-<
-**nosztalgia/nosztalgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://cdn.discordapp.com/attachments/1221088137330163712/1226119154054987827/Black_Elegeance_Modern_Offline_Twitch_Banner.png?ex=66239b72&is=66112672&hm=a578cd448d9d7c34a83b28f096e3430bb9169f2f507af39d6f2c30262cd21b5b&" alt=”my banner”>
-
-</p>
+Bienvenue sur mon profile!
 
 Here are some ideas to get you started:
 
@@ -19,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 >
+
+
+### 📊 Statistiques
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosztalgia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosztalgia&layout=compact)](https://github.com/yushi1007)
